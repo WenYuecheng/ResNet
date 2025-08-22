@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="enabledOnSave" value="true" />
+    <option name="pathToExecutable" value="D:\anaconda\Scripts\black.exe" />
+    <option name="sdkName" value="D:\anaconda\envs\pytorch" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="D:\anaconda\envs\pytorch" project-jdk-type="Python SDK" />
+</project>
